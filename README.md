@@ -3,7 +3,7 @@
 **Authors:** Benaya Trabelsi, Jonathan Shaki, Sarit Kraus  
 **Affiliation:** Bar Ilan University
 
-[![arXiv](https://img.shields.io/badge/arXiv-2601.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2601.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2601.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2601.13749)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
@@ -53,7 +53,7 @@ If you use this code or our findings in your research, please cite our paper:
 @article{trabelsi2026proai,
   title={Pro-AI Bias in Large Language Models},
   author={Trabelsi, Benaya and Shaki, Jonathan and Kraus, Sarit},
-  journal={arXiv preprint arXiv:2601.XXXXX},
+  journal={arXiv preprint arXiv:2601.13749},
   year={2026}
 }
 ```
