@@ -44,6 +44,9 @@ We probe the last-layer hidden states of decoder-only LLMs to test if the concep
 * **Tools:** Hidden-state extraction, Cosine similarity, Paired t-tests.
 
 ---
+## Figures Repository
+**Repository:** [benayat/Pro-AI-bias---visualizations](https://github.com/benayat/Pro-AI-bias---visualizations) 
+To reproduce existing figures, use the scripts in the above repository.
 
 ## Citation
 
